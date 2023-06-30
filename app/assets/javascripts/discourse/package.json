@@ -47,7 +47,7 @@
     "ember-modifier": "^4.1.0",
     "ember-on-resize-modifier": "^1.1.0",
     "ember-production-deprecations": "1.0.0",
-    "ember-source": "~3.28.12",
+    "ember-source": "~5.1.1",
     "ember-test-selectors": "^6.0.0",
     "handlebars": "^4.7.7",
     "html-entities": "^2.4.0",
